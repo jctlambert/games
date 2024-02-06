@@ -91,4 +91,4 @@
 * [PDP 11/70](https://skn.noip.me/pdp11/pdp11.html)
 * [WebSDR](http://websdr.ewi.utwente.nl:8901/) ([HF](https://en.wikipedia.org/wiki/High_frequency)]
 
-'*' = Paid
+'\*' = Paid
