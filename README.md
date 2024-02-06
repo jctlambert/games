@@ -9,7 +9,6 @@
 
 # Simulation
 * [Logic Sim X](https://logicsimx.com/)
-* [Nuclear War Simulator](https://nuclearwarsimulator.com/)*
 * [Sophie's Safecracking Simulator](https://sophiehoulden.com/safecracking/)* ([1](https://archive.org/details/the-art-of-manipulation), [2](https://archive.org/details/the-national-locksmith-guide-to-manipulation), [3](https://archive.org/details/three-wheel-lock-manipulation-flowchart))
 * [The Signal State](https://signalstate.io/)*
 * [Turing Complete](https://turingcomplete.game/)*
@@ -17,9 +16,6 @@
 * [Virtual Enigma](https://enigma.virtualcolossus.co.uk/VirtualEnigma/)
 
 # General
-* [DEFCON](https://store.steampowered.com/app/1520/DEFCON/)*
-* [First Strike: Classic](https://firststrike.mobi/classic)*
-* [ICBM](https://www.slitherine.com/game/icbm)*
 * [Machinarium](https://amanita-design.net/games/machinarium.html)*
 * [RISK: Global Domination](https://store.steampowered.com/app/1128810/RISK_Global_Domination/)
 * [Space Quest](https://sarien.net/spacequest)
@@ -78,13 +74,19 @@
 * [Ray](https://github.com/zakki/Ray) ([OpenBLAS](https://www.openblas.net/))
 * [Sensible Artificial Intelligence](https://github.com/sai-dev/sai/) ([best-network](http://zero.sjeng.org/best-network))
 
+# EOL
+* [DEFCON](https://store.steampowered.com/app/1520/DEFCON/)*
+* [Doomsday Clock](https://thebulletin.org/doomsday-clock/)
+* [First Strike: Classic](https://firststrike.mobi/classic)*
+* [ICBM](https://www.slitherine.com/game/icbm)*
+* [Nuclear War Simulator](https://nuclearwarsimulator.com/)*
+* [NUKEMAP](https://nuclearsecrecy.com/nukemap/)
+* [PLAN A](https://sgs.princeton.edu/the-lab/plan-a)
+
 # Other
 * [cryptii](https://cryptii.com/)
-* [Doomsday Clock](https://thebulletin.org/doomsday-clock/)
 * [How a Handgun Works: 1911 .45](https://animagraffs.com/how-a-handgun-works-1911-45/)
 * [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
-* [NUKEMAP](https://nuclearsecrecy.com/nukemap/)
 * [Origami Simulator](https://origamisimulator.org/)
 * [PDP 11/70](https://skn.noip.me/pdp11/pdp11.html)
-* [PLAN A](https://sgs.princeton.edu/the-lab/plan-a)
 * [WebSDR](http://websdr.ewi.utwente.nl:8901/) ([HF](https://en.wikipedia.org/wiki/High_frequency)]
